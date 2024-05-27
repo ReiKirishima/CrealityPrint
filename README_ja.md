@@ -1,5 +1,5 @@
-## Important
-The current Creality Print slicing software is still iterating rapidly. We have not yet uploaded the source code to Github for all users who follow Creality Print to download and compile freely. We plan to improve the code and submit it to GitHub before July 31st. Please stay tuned
+## 重要なこと
+現在のCreality Printのスライスソフトは、まだ急ピッチで開発中です。まだソースコードをGithubにアップロードしておらず、Creality Printをフォローしているすべてのユーザーが自由にダウンロードしてコンパイルできるようにしていません。7月31日までにコードを改善し、GitHubに提出する予定です。ご期待ください。
 
 ## Creality Print 5.0.0 Release Notes
 
