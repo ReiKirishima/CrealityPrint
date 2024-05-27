@@ -1,4 +1,4 @@
-日本語に翻訳したものを [[https://github.com/ReiKirishima/CrealityPrint/blob/release-v5.0.2/README.md]](README_ja.md) として作成してみました。
+日本語に翻訳したものを [[README_ja.md]](https://github.com/ReiKirishima/CrealityPrint/blob/release-v5.0.2/README_ja.md) として作成してみました。
 
 ## Important
 The current Creality Print slicing software is still iterating rapidly. We have not yet uploaded the source code to Github for all users who follow Creality Print to download and compile freely. We plan to improve the code and submit it to GitHub before July 31st. Please stay tuned
