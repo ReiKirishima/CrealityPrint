@@ -1,38 +1,38 @@
 ## 重要なこと
 現在のCreality Printのスライスソフトは、まだ急ピッチで開発中です。まだソースコードをGithubにアップロードしておらず、Creality Printをフォローしているすべてのユーザーが自由にダウンロードしてコンパイルできるようにしていません。7月31日までにコードを改善し、GitHubに提出する予定です。ご期待ください。
 
-## Creality Print 5.0.0 Release Notes
+## Creality Print 5.0.0 リリースノート
 
-We are delighted to announce that the brand new version 5.0 has been released officially, with all upgrades aimed at improving user experience.  
-Firstly, with a new user interface and interaction experience, the process settings system has become simpler, and the slicer has become more user-friendly and intelligent. The K series/v3 high-speed machines now support 42 kinds of official filaments and general parameters. We have not only readjusted the machine process parameters, but all parameters can be saved and exported for sharing.  
-Moreover, through our ongoing efforts, version 5.0 has faster printing speed and better printing quality.Now let's see together what other surprises there.
+この度、ユーザーエクスペリエンスの向上を目指したバージョン5.0がリリースされました。  
+まず、新しいユーザーインターフェースとインタラクションエクスペリエンスにより、プロセス設定システムはよりシンプルになり、スライサーはよりユーザーフレンドリーでインテリジェントになりました。Kシリーズ/v3高速マシンは現在、42種類の公式フィラメントと一般的なパラメータをサポートしています。マシンのプロセスパラメーターを再調整しただけでなく、すべてのパラメーターを保存し、共有のためにエクスポートすることができます。  
+さらに、私たちの継続的な努力を通じて、バージョン5.0は、より速い印刷速度とより良い印刷品質を持っています。さて、そこに他の驚きがあるかを一緒に見てみましょう。
 
-## 1\. Key Improvements
+## 1\. 主な改良点
 
-## 1.1 Revolutionary User Experience
+## 1.1 画期的なユーザー体験
 
-### Comprehensive Upgrade of UI
+### UIの全面的なアップグレード
 
--   With the upgrading of the company's Corporate Identity (VI) system to version 5.0, we have rolled out a fully revamped UI system. A brand-new logo, theme color, icons, and page layout will be introduced to provide users with a fresh visual experience.
+-   コーポレート・アイデンティティ（VI）システムのバージョン5.0へのアップグレードに伴い、UIシステムを全面的に刷新しました。ロゴ、テーマカラー、アイコン、ページレイアウトを一新し、ユーザーに新鮮なビジュアル体験を提供します。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic1.png)
 
--   We adjusted the UI layout after the upgrade according to mainstream visual habits: we repositioned the toolbar and prioritized the process setting systems. This made the operation interface clearer, not only reducing the operation steps for settings, but also greatly enhancing the smoothness of the user experience.
+-   バージョンアップ後のUIレイアウトは、主流の視覚習慣に合わせ、ツールバーの位置を変更し、プロセス設定系に優先順位をつけました。ツールバーの位置を変更し、プロセス設定系を優先させることで、操作インターフェイスをスッキリとさせ、設定のための操作ステップを減らすだけでなく、ユーザーエクスペリエンスのスムーズさを大幅に向上させました。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic2.png)
 
-### Printing Becomes a Piece of Cake
+### 印刷が簡単になる
 
--   After extensive model testing and parameter adjustment, we have developed several configurations for different machines and nozzle types. You can conveniently select an appropriate configuration for one-click printing. For instance, we offer four configurations for the K1C-0.4 nozzle.
--   We constantly monitor the processing status of the model to minimize any factors that could negatively affect print quality. Should there be any issues, our user interface will promptly provide friendly cues in the bottom-left corner, assisting users in promptly identifying and resolving the issue to minimize any potential losses.
+-   徹底したモデルテストとパラメータ調整の結果、さまざまなマシンとノズルタイプに対応する複数のコンフィギュレーションを開発しました。ワンクリックで適切な設定を選択することができます。例えば、K1C-0.4ノズルには4つのコンフィギュレーションがあります。
+-   私たちは、印刷品質に悪影響を及ぼす可能性のある要因を最小限に抑えるため、機種の処理状況を常に監視しています。万が一問題が発生した場合は、ユーザーインターフェースの左下隅に表示される親切な合図により、ユーザーが問題を迅速に特定し、解決できるようサポートし、潜在的な損失を最小限に抑えます。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic3.gif)
 
--   The variety of settings often causes confusion. For this reason, we have selected a set of commonly used parameters as the basic settings, enabling you to quickly adjust common parameters and diminish the impact of unnecessary information.
+-   設定項目が多岐にわたるため、混乱を招くことも少なくありません。そのため、よく使われるパラメーターを基本設定として選び、共通のパラメーターを素早く調整できるようにし、不必要な情報の影響を少なくしています。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic4.png)
 
--   5.0 Version introduces a wealth of diagrams for parameters, illustrating complex parameters in an intuitive way. Along with these diagrams and elaborate descriptions, you can quickly understand the meaning of each parameter.
+-   5.0バージョンでは、複雑なパラメータを直感的な方法で説明する、パラメータ用の豊富なダイアグラムを導入しました。これらの図や詳細な説明とともに、各パラメータの意味を素早く理解することができます。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic5.gif)
 
