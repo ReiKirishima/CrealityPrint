@@ -38,9 +38,9 @@
 
 ![](https://wiki.creality.com/crealityprint/500release/pic6.png)
 
-### More Efficient Process Tuning
+### より効率的なプロセスチューニング
 
--   Indeed, we also accommodate more extensive parameter configurations. Simply switch to the advanced settings mode to access comprehensive parameter information, facilitating broad and meticulous adjustment.
+-   より広範なパラメーター設定にも対応しています。高度な設定モードに切り替えるだけで、包括的なパラメーター情報にアクセスでき、広範囲で綿密な調整が可能になります。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic7.png)
 
@@ -50,28 +50,28 @@ Normal
 
 Advance
 
--   Evidently, the valid range of parameters is closely associated with various factors such as the types of consumables and the device model. This often makes it challenging for users to accurately judge the validity of settings. To address this issue, we have established a suitable range for each parameter and provided a color-coded input box. This allows users to easily determine the status of parameters while making changes.
+-   明らかに、パラメーターの有効範囲は、消耗品の種類や装置のモデルなど様々な要因と密接に関連しています。そのため、ユーザーが設定の妥当性を正確に判断することは困難な場合が多いです。そこで、各パラメータの有効範囲を設定し、色分けした入力ボックスを用意しました。これにより、ユーザーはパラメータを変更しながら、その状態を容易に判断できるようになりました。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic9.png)
 
--   Previewing slices has now become WYSIWYG - what you see is what you get. We now support real-time parameter modifications during previews, enabling you to rapidly observe the effects of your adjustments.
+-   スライスのプレビューがWYSIWYGになりました。プレビュー中にパラメータをリアルタイムで変更できるようになり、調整の効果をすばやく確認できるようになりました。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic10.gif)
 
-### More Convenient Professional Settings
+### より便利なプロフェッショナル・セッティング
 
--   We not only support global settings but also offer flexible and detailed solutions. When printing multiple models in the same job, you can use object settings to apply individual parameters to each model. Each model is sliced with the parameters that suit it best, effectively enhancing the print quality and efficiency.
+-   グローバルな設定をサポートするだけでなく、柔軟できめ細かいソリューションも提供しています。複数のモデルを同じジョブで印刷する場合、オブジェクト設定を使用して各モデルに個別のパラメータを適用できます。各モデルに最適なパラメータでスライスされるため、印刷品質と効率が効果的に向上します。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic11.gif)
 
--   Supports the comparison of different types of machines, materials, and process parameters. By using this feature, you can thoroughly compare the differences，to find out the key parameters affecting quality, providing guidance on the optimal direction for your printing tasks.
+-   異なるタイプのマシン、材料、プロセスパラメーターの比較をサポートします。この機能を使用することで、違いを徹底的に比較し、品質に影響する重要なパラメータを見つけ出し、印刷タスクに最適な方向性を示すガイダンスを提供することができます。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic12.png)
 
-## 1.2 Settings Configuration Upgrade
+## 1.2 設定コンフィギュレーションのアップグレード
 
--   **Upgrade Of Default Parameter Configuration**  
-    Creality Print provides an array of tested and official print configurations, encompassing aspects like printers, filaments, and process settings. These configurations, verified through extensive testing, are designed to guarantee successful printing in the majority of cases, and simultaneously meet essential printing needs.
+-   **デフォルトパラメータ設定のアップグレード**  
+    Creality Printでは、プリンター、フィラメント、プロセス設定など、テスト済みの公式印刷設定を提供しています。広範なテストを通じて検証されたこれらの設定は、ほとんどのケースで印刷の成功を保証し、同時に印刷の必要不可欠なニーズを満たすように設計されています。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic13.png)
 
@@ -85,7 +85,7 @@ Advance
 
 （Process）
 
-A noteworthy update in the brand new 5.0 version is that we've upgraded and made great efforts to the printing configurations, with the aim of enhancing your printing experience. For instance, when printing the model in the following model on the same printer，using the default process settings of 0.2mm Standard process parameters, the print quality in version 5.0 is noticeably superior to that in version 4.3.8.
+新しいバージョン5.0の特筆すべきアップデートは、お客様の印刷体験を向上させることを目的として、印刷設定をアップグレードし、多大な努力をしたことです。例えば、以下のモデルを同じプリンターで印刷した場合、デフォルトのプロセス設定である0.2mmのStandardプロセスパラメータを使用すると、バージョン5.0の印刷品質はバージョン4.3.8よりも明らかに優れています。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic16.jpg)
 
@@ -95,8 +95,8 @@ A noteworthy update in the brand new 5.0 version is that we've upgraded and made
 
 （5.0）                              （4.3.8）
 
--   **Upgrade Of User Preset Configuration**  
-    Simplify your printing process by creating custom slicing parameter presets for regular use according to your distinct print demands and habits, such as settings for other filaments. You can base these on official configurations, and save them to Creality Print, or export them as a Zip for reuse or sharing with friends.
+-   **ユーザープリセット設定のアップグレード**  
+    他のフィラメント用の設定など、お客様独自の印刷需要や習慣に従って、通常使用するカスタムスライスパラメータプリセットを作成することで、印刷プロセスを簡素化できます。公式の設定に基づき、Creality Printに保存したり、再利用や友人と共有するためにZipとしてエクスポートすることができます。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic18.png)
 
@@ -110,31 +110,31 @@ A noteworthy update in the brand new 5.0 version is that we've upgraded and made
 
 （Process）
 
-The noteworthy aspect is the 5.0 version's compatibility with other slicer software exported user presets, such as Prusa and Orca. This allows for a variety of configurations from different software.  
-Furthermore, you can share and exchange your parameter configurations using 3mf project files. As a universal third-party standard file, 3mf offers richer and more accurate data descriptions compared to other formats. When using 3mf project files, not only printers, filaments, process settings, but also your databank for support coatings, Z-Seam drawing data, adaptive layer heights, etc., can be seamlessly used across multiple software platforms.
+特筆すべき点は、5.0バージョンは、PrusaやOrcaなど、他のスライサーソフトウェアにエクスポートされたユーザープリセットと互換性があることです。これにより、異なるソフトウェアから様々な設定を行うことができます。  
+さらに、3mfプロジェクトファイルを使用して、パラメータ設定を共有・交換することができます。普遍的なサードパーティ標準ファイルとして、3mfは他のフォーマットと比較して、より豊富で正確なデータ記述を提供します。3mfプロジェクトファイルを使用すると、プリンター、フィラメント、プロセス設定だけでなく、サポートコーティング、Z-Seam図面データ、適応レイヤーハイトなどのデータバンクも、複数のソフトウェアプラットフォームでシームレスに使用できます。
 
-## 1.3 Efficient Multi-Plates Management
+## 1.3 効率的なマルチプレートの管理
 
-In the past, when printing splicing structural models, we had to manually group a large number of models on a print plate and store them in multiple files for printing. This process was somewhat cumbersome, prone to error, and very time-consuming. Now, with multi-plates management, you can consolidate all the parts need to be printed in one file to increase convenience and operation efficiency in classifying models, making it easy to handle the printing tasks of multiple models.  
-primary functions：
+以前は、スプライシング構造モデルを印刷する場合、印刷版上に多数のモデルを手作業でグループ化し、複数のファイルに保存して印刷する必要がありました。このプロセスはやや面倒で、エラーが発生しやすく、非常に時間がかかりました。マルチプレートマネージメントを使用すれば、印刷が必要なすべての部品を1つのファイルにまとめることができ、モデルを分類する際の利便性と作業効率が向上し、複数のモデルの印刷作業を簡単に処理することができます。  
+主な機能：
 
--   Supports regular operations of the plate, such as adding/removing/selecting/customizing names/locking, etc.;
--   Supports automatic layout and orientation of the current tray model, and you can also manually drag to adjust;
+-   版の追加/削除/選択/名前のカスタマイズ/ロックなどの通常の操作をサポートします；
+-   現在のトレイモデルの自動レイアウトと向きをサポートし、手動でドラッグして調整することもできます；
 
 ![](https://wiki.creality.com/crealityprint/500release/pic21.png)
 
--   Supports saving the plates to 3MF and CXPRJ files for easy subsequent editing;
--   Supports quick switching between different trays to perform slicing, previewing, and printing.
+-   プレートを3MFおよびCXPRJファイルに保存し、その後の編集を容易にします；
+-   異なるトレイを素早く切り替えて、スライス、プレビュー、印刷が可能。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic22.png)
 
-## 2\. Performance and Quality
+## 2\. 性能と品質
 
-### 2.1 Faster Printing Speed
+### 2.1 印刷速度の高速化
 
-The printing speed of the model is influenced by not only the hardware but also the slicing algorithm optimization. Thanks to algorithm improvements in version 5.0, a very apparent enhancement of printing speed, ranging potentially between 20% and 50%, though the exact percentage would vary based on model structure and printing process.  
-There are two key factors contributing to these speed improvements.  
-First, efforts have been made to greatly increase the speed of certain types of lines, specifically the inner and outer walls, while still ensuring printing quality. As the graphic shows below, version 5.0 presents a visibly higher speed (indicated by color) for the lines of the inner and outer walls on each level compared with the previous versions.
+モデルの印刷速度は、ハードウェアだけでなく、スライスアルゴリズムの最適化にも影響されます。バージョン5.0におけるアルゴリズムの改良のおかげで、モデルの構造や印刷プロセスによって正確なパーセンテージは異なりますが、20%から50%の範囲で印刷速度が向上しています。  
+これらの速度向上には2つの重要な要因があります。  
+第一に、印刷品質を確保しながら、特定の種類の線、特に内壁と外壁の速度を大幅に向上させる努力がなされています。下の図が示すように、バージョン5.0では、各レベルの内壁と外壁の線の速度が、以前のバージョンと比べて目に見えて向上しています（色で示されています）。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic23.png)
 
@@ -144,7 +144,7 @@ First, efforts have been made to greatly increase the speed of certain types of 
 
 （Printing Time of 4.3.8：9h 4m 15s）
 
-Next, we have improved the continuity of 3D-printing paths and attempted to follow the shortest routes in the printings. Below you will see the printing pathways of both the old and new versions in the same layer. You may intuitively find that the path planning in the newer version has become considerably more efficient.
+次に、3Dプリント経路の連続性を改善し、プリントにおいて最短経路をたどることを試みました。以下に、同じレイヤーにおける新旧両方のバージョンのプリント経路を示します。新しいバージョンのパスプランニングがかなり効率的になっていることが直感的にわかるかもしれません。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic25.gif)
 
@@ -154,19 +154,19 @@ Next, we have improved the continuity of 3D-printing paths and attempted to foll
 
 (4.3.8)
 
-### 2.2 Higher Slicing Efficiency
+### 2.2 より高いスライス効率
 
-Not only that, we've optimized the slicing algorithm from a software engineering standpoint. Specifically, we have decoupled the geometric handling and process computations within the algorithm and leveraged multi-core parallel processing. This enables geometric handling and process calculations to occur concurrently, thereby greatly enhancing slicing efficiency.  
-The extent to which slicing efficiency improves depends on your computer settings and the magnitude of the model. For instance, as per the displayed model, it only takes a quarter of the previous slicing duration, so no more waiting for long periods!
+それだけでなく、ソフトウェアエンジニアリングの観点からもスライシングアルゴリズムを最適化しました。具体的には、アルゴリズム内のジオメトリ処理とプロセス計算を切り離し、マルチコア並列処理を活用しました。これにより、ジオメトリ処理とプロセス計算を同時に行うことができ、スライス効率が大幅に向上した。  
+スライス効率がどの程度向上するかは、コンピュータの設定とモデルの大きさに依存します。例えば、表示されているモデルの場合、従来のスライス時間の4分の1で済むため、長時間待たされることがありません！
 
 ![](https://wiki.creality.com/crealityprint/500release/pic27.png)
 
-### 2.3 Better Quality
+### 2.3 品質向上
 
-Indeed, in terms of print quality, which everyone cares about most, version 5.0 has demonstrated significant improvements, particularly in the aspects of 'overhang', 'Z-seam', and 'support'.Among them, 'Z-seam' and 'support' stand out.  
-These advancements originate from our comprehensive technical innovations, with the optimization of our path planning algorithm being a paramount element. Simultaneously, we have also made more precise adjustments in parameter settings. When these two efforts work together, they improve the print quality of our models.
+実際、誰もが最も気にする印刷品質に関して、バージョン5.0は特に「オーバーハング」、「Zシーム」、「サポート」の面で大幅な改善を示しました。中でも「Zシーム」と「サポート」が際立っています。  
+これらの進歩は、私たちの総合的な技術革新に由来するもので、中でもパス・プランニング・アルゴリズムの最適化が最も重要な要素です。同時に、パラメーターの設定をより精密に調整しました。この2つの取り組みが相まって、モデルの印刷品質を向上させています。
 
--   **Overhang: The outer wall becomes more delicate and smooth.**
+-   **オーバーハング： 外壁がより繊細で滑らかになりました。**
 
 ![](https://wiki.creality.com/crealityprint/500release/pic28.png)
 
@@ -176,7 +176,7 @@ These advancements originate from our comprehensive technical innovations, with 
 
 5.0
 
--   **Z Seam: Higher precision, richer styles, such as alignment, nearest, back, random. For example, the model in the following picture utilizes the alignment style.**
+-   **Zシーム： より高精度で、アライメント、ニアレスト、バック、ランダムなどの豊富なスタイル。例えば、次の図のモデルはアライメントスタイルを使用しています。**
 
 ![](https://wiki.creality.com/crealityprint/500release/pic30.png)
 
@@ -186,8 +186,8 @@ These advancements originate from our comprehensive technical innovations, with 
 
 5.0
 
--   **Support: The generation of support is more rational.**  
-    There are many aspects to optimizing support, among which the key is that we have achieved fewer supports and more effective contact surfaces, making the supports easier to remove and the contact surface less likely to collapse. This greatly improves the surface quality of the model while reducing printing time and materials used.
+-   **サポート： サポートの生成はより合理的になっている。**  
+    サポートの最適化にはさまざまな側面がありますが、中でも重要なのは、サポートの数を減らし、より効果的な接触面を実現したことで、サポートの取り外しが容易になり、接触面が崩れにくくなりました。これにより、モデルの表面品質が大幅に向上し、同時に印刷時間と使用材料が削減されました。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic32.jpg)
 
@@ -203,55 +203,55 @@ These advancements originate from our comprehensive technical innovations, with 
 
 （5.0-Supporting Results and Print Quality）
 
-## 3\. Others
+## 3\. その他
 
-### 3.1 Multi-color Printing
+### 3.1 多色印刷
 
-**1）Model Import**  
-• Users can easily import a variety of common 3D model file formats, such as STL, OBJ, and 3mf, preparing for subsequent operations.  
-**2）Model Coloring**  
-• Intuitive model coloring tools are provided, allowing users to assign required filament colors to different parts or surfaces.  
-**3）Preview**  
-• The software provides real-time 3D preview functionality, enabling users to clearly view the color distribution and structure of each layer before printing, ensuring satisfactory print results.  
-**4）Slicing File Export**  
-• The software supports converting colored models into slice files, generating G-codes for multi-color printing, thereby preparing the final steps for print preparation.  
-**5）Local Area Network for Software to Filament Mapping**  
-• Through a local area network connection, the software can easily communicate with a multi-color printer and map materials, thereby enabling remote operation and monitoring of the print process.  
-**6）Controlling the printer to start printing**  
-• Users can directly control the multi-color printer through the software interface, initiate the print job, monitor the print process, and adjust and intervene as needed.  
-The series of functionalities greatly simplifies and optimizes the workflow of FDM multi-color printing, helping users more effortlessly realize intricate multi-color print works.
+**1）モデルインポート**  
+• STL、OBJ、3mfなど様々な一般的な3Dモデルファイル形式を簡単にインポートすることができます。  
+**2）モデルカラーリング**  
+• 直感的なモデルカラーリングツールが提供され、ユーザーは異なるパーツやサーフェスに必要なフィラメントカラーを割り当てることができます。  
+**3）プレビュー**  
+• リアルタイム3Dプレビュー機能により、印刷前に各レイヤーの色分布や構造を確認することができ、満足のいく印刷結果を得ることができます。  
+**4）スライスファイルエクスポート**  
+• カラーモデルをスライスファイルに変換し、多色印刷用のGコードを生成することで、印刷準備の最終段階をサポートします。  
+**5）ローカルエリアネットワークによるソフトウェアとフィラメントのマッピング**  
+• ローカルエリアネットワーク接続により、ソフトウェアはマルチカラープリンターと簡単に通信し、材料をマッピングすることができます。  
+**6）プリンターの制御による印刷開始**  
+• ユーザーは、ソフトウェアのインターフェイスを介してマルチカラープリンタを直接制御し、印刷ジョブを開始し、印刷プロセスを監視し、必要に応じて調整し、介入することができます。  
+この一連の機能により、FDM多色印刷のワークフローが大幅に簡素化、最適化され、ユーザーはより簡単に複雑な多色印刷作業を実現することができます。
 
-### 3.2 Synchronizing Configuration by the Cloud
+### 3.2 クラウドによる設定の同期
 
-We are continuously researching and optimizing parameter settings to better adapt to different printer types and printing scenarios, consistently providing more efficient and suitable printing solutions.  
-Previously, users needed to update the slice to obtain new configurations, which was rather cumbersome. But now, we have enhanced the parameter synchronization method - with just one click, users can complete updates. As long as you are connected to the internet, we will instantly push the latest configurations to better assist you in completing printing tasks.
+私たちは、より効率的で適切な印刷ソリューションを一貫して提供するため、さまざまなプリンタータイプや印刷シナリオによりよく適応するよう、継続的に研究し、パラメーター設定を最適化しています。  
+以前は、ユーザーは新しい設定を得るためにスライスを更新する必要があり、かなり面倒でした。しかし現在では、パラメータの同期方法を強化し、ワンクリックで更新を完了できるようになりました。インターネットに接続されている限り、最新のコンフィギュレーションを即座にプッシュし、印刷タスクの完了をサポートします。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic39.png)
 
-### 3.3 Adaptive Layer
+### 3.3 アダプティブレイヤー
 
-We have also launched the feature of adaptive layer height slicing. You might wonder why this feature is necessary. As you can see from the picture on the right, models printed with adaptive layer height slicing are of a higher quality than those produced with uniform layer heights. This method reduces layer lines, achieves finer detail handling, and also saves time.  
-Adaptive layer height slicing devises a layer height strategy based on the model's geometry, employing thinner layers for detailed areas and thicker layers for smoother regions. This approach enhances quality while also reducing printing time.
+アダプティブ・レイヤーの高さスライスの機能も開始した。なぜこの機能が必要なのか不思議に思われるかもしれません。右の写真からわかるように、アダプティブ・レイヤー・ハイト・スライシングで印刷されたモデルは、均一なレイヤーハイトで製造されたモデルよりも高品質です。この方法は、レイヤーラインを減らし、より細かいディテールのハンドリングを実現し、時間の節約にもなります。  
+アダプティブ・レイヤーハイト・スライシングは、モデルのジオメトリに基づいてレイヤーの高さ戦略を考案し、詳細な領域には薄いレイヤーを、滑らかな領域には厚いレイヤーを採用します。このアプローチは、印刷時間を短縮しながら品質を向上させます。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic40.png)
 
 ![](https://wiki.creality.com/crealityprint/500release/pic41.png)
 
-PS：Each color on the model means a different layer height.
+追記：モデル上の色はそれぞれ異なるレイヤーの高さを意味します。
 
-### 3.4 Support Painting
+### 3.4 サポートのペイント
 
-The newly introduced manual support feature in Version 5.0 facilitates the addition and blocking of support positions using three methods--a paintbrush, fill, or gap fill. You can leverage the manual support feature to make specific adjustments when automatic support doesn't yield the desired results.
+バージョン5.0で新しく導入された手動サポート機能は、ペイントブラシ、塗りつぶし、ギャップ塗りつぶしの3つの方法で、サポート位置の追加やブロックを容易にします。自動サポートで思うような結果が得られない場合、マニュアルサポート機能を活用して特定の調整を行うことができます。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic42.png)
 
 ![](https://wiki.creality.com/crealityprint/500release/pic43.png)
 
-PS：The green color represents the position of the generated support while the red color indicates the position of blocked-off supports.
+追記：緑色は生成されたサポートの位置、赤色はブロックされたサポートの位置を示します。
 
-### 3.5 Z Seam Painting
+### 3.5 Zシームペイント
 
-With the newly introduced Z-Seam painting feature, you now have the freedom to modify the Z-seam positions, enabling you to adjust the surface effect according to the model's requirements.
+新しく導入されたZシームペイント機能により、Zシームの位置を自由に変更できるようになり、モデルの要求に応じて表面効果を調整できるようになりました。
 
 ![](https://wiki.creality.com/crealityprint/500release/pic44.png)
 
@@ -265,48 +265,48 @@ Seam Painting
 
 After
 
-## 4\. Bug Fixing
+## 4\. バグ修正
 
-Beyond feature enhancements, version 5.0 also fixes several issues of interest to users, highlighted below:  
-• Generative support algorithm optimized to ensure print quality while reducing the automated support generation area.  
-• The fill algorithm is honed to rectify anomalies under specific scenarios.  
-• The auto layout algorithm improved to solve model auto-flip issues and layout outside the plate problem.  
-• Slicing performance enhanced, amplifying slicing efficiency for massive or multiple model slicing to shorten the slicing time.  
-• Function added for choosing the path for model downloads, resolving the issue of memory usage in the C drive.  
-• A shortcut key is added to the operation bar.  
-• Skirt parameters amended to solve difficulty in removing the skirt.  
-• Added a feature for space + left click platform drag to solve the Magic Mouse platform dragging issue.  
-• Fixed a bug where the nozzle path dynamic view skipped the first layer and jumped directly to the second.  
-• Rectified bug related to auto layout not automatically avoiding multiple objects when printing in order.  
-• A print preview issue resulting in the non-display of estimated consumption weight has been addressed.  
-• Bug resolved, where slicing a single-line print configuration could cause a crash.  
-• Fixed an anomaly in the traversing path in hollow areas after support activation.  
-• An established issue fixed where an interval parameter setting in slicing would not function correctly.  
-• LAN device details page file list fix allows deletion of listed file.  
-• Rectified bug where you don't stop slicing after clicking the prompt, "Add support."  
-• A bug causing screen flash when clicking undo in specific scenarios has been corrected.  
-• The hitch where filling is generated where the model has been shelled has been fixed.  
-• The inability to engrave after pressing the delete key to cancel the engraving box bug was remedied.  
-• Fixed the bug where the shell-removed area of the model was being cured and also created a patch.  
-• A bug fixed where layer values were not displayed when moving the control layer slider.  
-• Fixed program crashes when the set angle value for overhang exceeds the limit bug.  
-• Z-axis inconsistency post model rotation issue solved.  
-• Solved the problem of low sensitivity while right-click rotary platform with the mouse.  
-• Anomalies resolved associated with lining in overhang printing.  
-• The disappearing print platform bug resolved.  
-• Fixed a bug where a model doesn't inherit original data after rotation and invoke undo clone/copy.  
-• Rectified page flash issue when importing large models.  
-• Strange font usage on UI is fixed.  
-• Other known issues have been addressed.
+バージョン5.0では、機能強化に加え、ユーザーにとって関心の高いいくつかの問題が修正されました：  
+• 自動サポート生成領域を減らしながら、印刷品質を確保するためにサポート生成アルゴリズムを最適化。  
+• 塗りつぶしアルゴリズムを改良し、特定のシナリオにおける異常を修正。  
+• 自動レイアウトアルゴリズムを改良し、モデルの自動反転問題やプレート外レイアウト問題を解決。  
+• スライス性能が向上し、大量または複数のモデルのスライス効率が向上し、スライス時間が短縮されました。  
+• モデルのダウンロードパスを選択する機能が追加され、Cドライブのメモリ使用量の問題が解決されました。  
+• 操作バーにショートカットキーを追加しました。  
+• スカートの取り外しにくさを解消するため、スカートのパラメーターを修正しました。  
+• Magic Mouseのプラットフォームドラッグの問題を解決するために、スペース＋左クリックのプラットフォームドラッグ機能を追加しました。  
+• ノズルパスのダイナミックビューが最初のレイヤーをスキップして、直接2番目のレイヤーにジャンプするバグを修正。  
+• 順番に印刷する際に、オートレイアウトが複数のオブジェクトを自動的に回避しない不具合を修正しました。  
+• 印刷プレビューで、推定消費重量が表示されない不具合が修正されました。  
+• 単一行の印刷設定をスライスするとクラッシュすることがあったバグを解決しました。  
+• サポート有効化後、くぼみ領域でのトラバースパスの異常が修正されました。  
+• スライスのインターバルパラメーター設定が正しく機能しない不具合を修正しました。  
+• LAN デバイス詳細ページのファイルリストで、リストされたファイルの削除ができるように修正。  
+• プロンプト "Add support" をクリックした後、スライスが止まらないバグを修正。  
+• 特定のシナリオで[元に戻す]をクリックすると画面が点滅する不具合が修正されました。  
+• モデルがシェルされた場所でフィリングが生成される不具合が修正されました。  
+• 彫刻ボックスをキャンセルするためにdeleteキーを押した後、彫刻できないバグが改善されました。  
+• モデルのシェルを除去した部分が硬化してしまうバグを修正し、パッチも作成しました。  
+• コントロールレイヤースライダーを動かしてもレイヤーの値が表示されないバグを修正しました。  
+• オーバーハングの設定角度値が限界値を超えるとプログラムがクラッシュするバグを修正しました。  
+• モデル回転後のZ軸の不一致の問題を解決しました。  
+• マウスで回転台を右クリックしたときに感度が低くなる問題を解決しました。  
+• オーバーハング印刷の裏地に関連する異常が解決されました。  
+• 印刷プラットフォームが消えるバグを解決しました。  
+• モデルが回転した後、クローン/コピーの取り消しを実行しても元のデータが継承されないバグを修正しました。  
+• 大きなモデルのインポート時にページがフラッシュする問題を修正しました。  
+• UI のフォントの使い方がおかしかったのを修正しました。  
+• その他の既知の問題に対処しました。
 
-## Download Instructions
+## ダウンロード方法
 
-Download link for Creality Print version 5.0:
+Creality Printバージョン5.0のダウンロードリンク：
 
-Currently, Creality Print 5.0 is compatible with the following models: K1, K1C, K1Max, Ender-3 V3, Ender-3 V3 KE, Ender-3 V3 SE and Ender-3 S1. We are actively working to enhance compatibility with more models, so stay tuned for more updates.
+現在、Creality Print 5.0は以下の機種に対応しています： K1、K1C、K1Max、Ender-3 V3、Ender-3 V3 KE、Ender-3 V3 SE、Ender-3 S1。より多くのモデルとの互換性を高めるために積極的に取り組んでおりますので、今後のアップデートにご期待ください。
 
-For users of the K1 Max, please ensure to update your machine's firmware to version \[1.3.3.26\]or higher to maximize the software experience.
+K1 Maxをご使用の方は、ファームウェアをバージョン[1.3.3.26]以上にアップデートしてください。
 
-We're making progress toward guaranteeing firmware compatibility for the K1,K1C,Ender V3 KE and Ender3 V3 units. The updated firmware is anticipated to be out in May, so please keep an eye out for update announcements.
+K1、K1C、Ender V3 KE、Ender3 V3のファームウェア互換性の保証に向けて前進しています。ファームウェアのアップデートは5月を予定しておりますので、アップデートのお知らせをお待ちください。
 
-Here's the firmware download link: [https://www.crealitycloud.cn/software-firmware/firmware/flagship-series](https://www.crealitycloud.cn/software-firmware/firmware/flagship-series).
+ファームウェアのダウンロードリンクはこちら： [https://www.crealitycloud.cn/software-firmware/firmware/flagship-series](https://www.crealitycloud.cn/software-firmware/firmware/flagship-series).
